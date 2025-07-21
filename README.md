@@ -8,9 +8,9 @@ Product creation and listing (with filtering & pagination)
 Order creation and retrieval (with product details & total calculations)
 
 Live Deployment
-https://your-app-name.onrender.com
+https://hrone-backend-boxi.onrender.com
 Swagger Docs:
-https://your-app-name.onrender.com/docs
+https://hrone-backend-boxi.onrender.com/docs
 
 Project Structure
 bash
@@ -126,7 +126,7 @@ bash
 Copy
 Edit
 http://localhost:8000/docs
-🚀 Deployment (Render)
+Deployment (Render)
 Push your code to GitHub
 
 Go to https://render.com
